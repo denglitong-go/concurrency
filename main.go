@@ -1,4 +1,5 @@
 // SequenceSearch I/O 2012 - Go Concurrency Patterns
+// https://go.dev/talks/2012/concurrency.slide
 // https://www.youtube.com/watch?v=f6kdp27TYZs&ab_channel=GoogleDevelopers
 package main
 
