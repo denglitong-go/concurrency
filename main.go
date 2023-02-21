@@ -26,4 +26,6 @@ func main() {
 	software.ShowConcurrentSearch()
 	software.ShowConcurrentSearchWithTimeout()
 	software.ShowConcurrentSearchAvoidTimeoutReduceTailLatency()
+
+	ShowCommunicateBySharingMemory()
 }
